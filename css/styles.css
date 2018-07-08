@@ -23,6 +23,7 @@
   h2, h3, h4 { font-family: 'Montserrat'; }
   
 .skillbar {
+    font-family: 'Montserrat'
     position: relative;
     display: block;
     margin-bottom: 15px;
